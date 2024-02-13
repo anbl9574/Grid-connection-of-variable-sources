@@ -1,7 +1,6 @@
 clear all
 close all
 clc
-
 %% Loading Data (Do not Change)
 folder = cd;
 addpath([folder '\m-files'],[folder '\Radiation data']);
